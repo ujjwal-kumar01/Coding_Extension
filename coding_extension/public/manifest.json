@@ -1,0 +1,16 @@
+{
+    "name": "Question tracker 2",
+    "description": "An extension to help coding interviewers track questions and answers.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html"
+    },
+    "permissions": [
+        "scripting"
+    ],
+    "host_permissions":[
+        "https://leetcode.com/*",
+        "https://www.geeksforgeeks.org/*"
+    ]
+}
