@@ -20,13 +20,13 @@
 
 > 📸 *Screenshots ...*
 
-### 🏠 Home Page  
+### 🏠 Login Page  
 <img src="./screenshots/login.png" alt="Login" width="400"/>
 
 ### 💼 Bookmark Page  
 <img src="./screenshots/bookmark.png" alt="Bookmark" width="400"/>
 
-### ✉️ Contact / Note Page  
+### ✉️ Home/Notes Page  
 <img src="./screenshots/home.png" alt="Home" width="400"/>
 
 ---
