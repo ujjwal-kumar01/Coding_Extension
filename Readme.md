@@ -19,21 +19,23 @@
 ## 🚀 Demo
 
 > 📸 *Screenshots ...*
-### 🏠 Home Page
-![Login](./screenshots/login.png)
 
-### 💼 Projects Section
-![Bookmark](./screenshots/bookmark.png)
+### 🏠 Home Page  
+<img src="./screenshots/login.png" alt="Login" width="400"/>
 
-### ✉️ Contact Section
-![Home](./screenshots/home.png)
+### 💼 Bookmark Page  
+<img src="./screenshots/bookmark.png" alt="Bookmark" width="400"/>
+
+### ✉️ Contact / Note Page  
+<img src="./screenshots/home.png" alt="Home" width="400"/>
+
 ---
 
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Storage**: Chrome Local Storage API
-- **Build Tools**: Vite (optional, if you used it)
+- **Build Tools**: Vite 
 - **Extension APIs**: Chrome Extension Manifest v3
 
 ---
